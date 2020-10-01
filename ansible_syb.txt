@@ -1,6 +1,6 @@
 https://www.youtube.com/watch?v=lVcvY4Wy6_8&list=PL2qzCKTbjutIyQAe3GglWISLnLTQLGm7e&index=5    --->youtuab link for ansible tutorial according to this tutorials topics are 
 
-introduction
+introduction ok 
 ------------->
 What Is Ansible and How It Works?
 What is Ansible?
